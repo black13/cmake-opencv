@@ -8,10 +8,6 @@
 
 #include <opencv2/opencv.hpp>
 #include <math.h>
-//#include <opencv/cv.hpp>
-//#include "opencv2/imgproc/imgproc.hpp"
-//#include "opencv2/highgui/highgui.hpp"
-//#include "opencv2/core/core.hpp"
 
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
